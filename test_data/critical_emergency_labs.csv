@@ -1,0 +1,4 @@
+Test_Name,Result,Unit,Min_Reference,Max_Reference
+Lökosit,15.0,10^3/uL,4.0,10.0
+Hemoglobin,6.5,g/dL,12.0,16.0
+Glucose,45,mg/dL,70,100
